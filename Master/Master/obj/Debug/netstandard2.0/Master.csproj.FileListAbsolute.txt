@@ -1,0 +1,28 @@
+C:\Users\Evandro Assis\source\repos\Master\Master\Master\bin\Debug\netstandard2.0\Master.deps.json
+C:\Users\Evandro Assis\source\repos\Master\Master\Master\bin\Debug\netstandard2.0\Master.dll
+C:\Users\Evandro Assis\source\repos\Master\Master\Master\bin\Debug\netstandard2.0\Master.pdb
+C:\Users\Evandro Assis\source\repos\Master\Master\Master\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Evandro Assis\source\repos\Master\Master\Master\obj\Debug\netstandard2.0\View\Menu.xaml.g.cs
+C:\Users\Evandro Assis\source\repos\Master\Master\Master\obj\Debug\netstandard2.0\View\Pagina2.xaml.g.cs
+C:\Users\Evandro Assis\source\repos\Master\Master\Master\obj\Debug\netstandard2.0\View\TabbedPage1.xaml.g.cs
+C:\Users\Evandro Assis\source\repos\Master\Master\Master\obj\Debug\netstandard2.0\Master.csproj.CoreCompileInputs.cache
+C:\Users\Evandro Assis\source\repos\Master\Master\Master\obj\Debug\netstandard2.0\Master.AssemblyInfoInputs.cache
+C:\Users\Evandro Assis\source\repos\Master\Master\Master\obj\Debug\netstandard2.0\Master.AssemblyInfo.cs
+C:\Users\Evandro Assis\source\repos\Master\Master\Master\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Evandro Assis\source\repos\Master\Master\Master\obj\Debug\netstandard2.0\Master.dll
+C:\Users\Evandro Assis\source\repos\Master\Master\Master\obj\Debug\netstandard2.0\Master.pdb
+C:\Users\Evandro Assis\source\repos\Master\Master\Master\obj\Debug\netstandard2.0\Master.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Master\Master\Master\bin\Debug\netstandard2.0\Master.deps.json
+C:\Users\USER\Documents\Master\Master\Master\bin\Debug\netstandard2.0\Master.dll
+C:\Users\USER\Documents\Master\Master\Master\bin\Debug\netstandard2.0\Master.pdb
+C:\Users\USER\Documents\Master\Master\Master\obj\Debug\netstandard2.0\Master.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Master\Master\Master\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USER\Documents\Master\Master\Master\obj\Debug\netstandard2.0\View\Menu.xaml.g.cs
+C:\Users\USER\Documents\Master\Master\Master\obj\Debug\netstandard2.0\View\Pagina2.xaml.g.cs
+C:\Users\USER\Documents\Master\Master\Master\obj\Debug\netstandard2.0\View\TabbedPage1.xaml.g.cs
+C:\Users\USER\Documents\Master\Master\Master\obj\Debug\netstandard2.0\Master.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Master\Master\Master\obj\Debug\netstandard2.0\Master.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Master\Master\Master\obj\Debug\netstandard2.0\Master.AssemblyInfo.cs
+C:\Users\USER\Documents\Master\Master\Master\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USER\Documents\Master\Master\Master\obj\Debug\netstandard2.0\Master.dll
+C:\Users\USER\Documents\Master\Master\Master\obj\Debug\netstandard2.0\Master.pdb

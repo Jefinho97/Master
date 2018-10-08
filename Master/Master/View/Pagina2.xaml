@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Master.View.Pagina2">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+
+                <Grid VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <StackLayout Grid.Column="0" Grid.Row="0" BackgroundColor="Black">
+                        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+                            <Label Text="Position teste1" TextColor="White"/>
+                        </StackLayout>
+                    </StackLayout>
+
+                    <StackLayout Grid.Column="1" Grid.Row="0" BackgroundColor="Red">
+                        <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+                            <Label Text="Position 2" TextColor="White"/>
+                        </StackLayout>
+                    </StackLayout>
+
+                    <StackLayout Grid.Column="0" Grid.Row="1" BackgroundColor="Green">
+                        <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+                            <Label Text="Position 3" TextColor="White"/>
+                        </StackLayout>
+                    </StackLayout>
+
+                    <StackLayout Grid.Column="1" Grid.Row="1" BackgroundColor="Yellow">
+                        <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+                            <Label Text="Position 4" TextColor="White"/>
+                        </StackLayout>
+                    </StackLayout>
+
+
+                </Grid>
+
+                <StackLayout>
+                    <BoxView HeightRequest="500" BackgroundColor="Black"></BoxView>
+                    <Entry/>
+                </StackLayout>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
